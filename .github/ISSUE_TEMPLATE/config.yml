@@ -6,6 +6,3 @@ contact_links:
     - name: Heroku, Repl.it, Blocked site issues
       url: https://www.youtube.com/watch?v=BLUkgRAy_Vo
       about: Do not create issues for these.
-git clone https://github.com/ading2210/libcurl.js --recursive
-cd libcurl.js/client
-./build.sh
